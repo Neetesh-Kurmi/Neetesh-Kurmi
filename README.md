@@ -58,7 +58,7 @@
       <h3 align="center">🧭 Pathfinder</h3>
       <p align="center"><b>AI-Powered Travel Assistant (Chrome Extension)</b></p>
       <p>An intelligent travel companion integrated with Google Maps that provides complete travel roadmaps, public transit fare estimation, live group location tracking, and destination guides.</p>
-      <p><b>Tech Stack:</b> JavaScript, Chrome Extension APIs (Manifest V3), Google Maps API, AI Integration</p>
+      <p><b>Tech Stack:</b> JavaScript, Chrome Extension APIs, Google Maps API, AI Integration</p>
       <p align="center">
         <a href="https://github.com/Neetesh-Kurmi/Pathfinder"><b>View Repository ➔</b></a>
       </p>
@@ -66,7 +66,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🎓 Campus Connect</h3>
       <p align="center"><b>University Networking & Mentorship Hub</b></p>
-      <p>A collaborative community connecting juniors, seniors, faculty, and new students for placement guidance, verified notes sharing, experience discussions, and peer networking.</p>
+      <p>A collaborative community connecting juniors, seniors, faculty, and new students for placement guidance, notes sharing, experience discussions, and peer networking.</p>
       <p><b>Tech Stack:</b> React, Next.js, Node.js, Express, MongoDB, MySQL, Firebase, Vercel</p>
       <p align="center">
         <a href="https://github.com/Neetesh-Kurmi/Campus-Connect"><b>View Repository ➔</b></a>
@@ -109,19 +109,20 @@
 
 ---
 
-### 📊 GitHub Activity & Daily Contributions
+### 📊 GitHub Activity & Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neetesh-Kurmi&show_icons=true&theme=nord&border_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&title_color=38bdf8&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetesh-Kurmi&layout=compact&theme=nord&border_color=38bdf8&text_color=e2e8f0&title_color=38bdf8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Neetesh-Kurmi&theme=dark&background=0d1117&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8&dates=8b949e" alt="Neetesh's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Neetesh-Kurmi&theme=nord&border=38bdf8&background=2e3440&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neetesh-Kurmi&show_icons=true&theme=dark&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Neetesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetesh-Kurmi&layout=compact&theme=dark&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&text_color=c9d1d9" alt="Neetesh's Top Languages" />
 </p>
 
+<!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetesh-Kurmi&theme=nord&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
+  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
