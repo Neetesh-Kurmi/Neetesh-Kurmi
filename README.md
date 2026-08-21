@@ -33,14 +33,14 @@
       <ul>
         <li>💼 <b>Role:</b> Software Developer</li>
         <li>📍 <b>Location:</b> Bhopal, India</li>
-        <li>🎓 <b>Interests:</b> Full-Stack Development, AI Tools, APIs, DSA</li>
-        <li>🚀 <b>Goal:</b> Building impactful, scalable digital products</li>
+        <li>🎓 <b>Interests:</b> Full-Stack Web Development, AI Tools, APIs, DSA</li>
+        <li>🚀 <b>Goal:</b> Building scalable and high-performance digital products</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Career Focus</h4>
       <ul>
-        <li>⚡ <b>Core Focus:</b> Modern Web Architectures & Backend APIs</li>
+        <li>⚡ <b>Core Focus:</b> Modern React/Next.js & Node.js backend architectures</li>
         <li>🧠 <b>Problem Solving:</b> Active on <a href="https://leetcode.com/u/neetesh_kurmi08/">LeetCode (@neetesh_kurmi08)</a></li>
         <li>📬 <b>Status:</b> Actively seeking Full-Time Software Engineering & SDE Roles</li>
       </ul>
@@ -66,7 +66,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🎓 Campus Connect</h3>
       <p align="center"><b>University Networking & Mentorship Hub</b></p>
-      <p>A collaborative community connecting juniors, seniors, faculty, and new students for placement guidance, notes sharing, experience discussions, and peer networking.</p>
+      <p>A collaborative community connecting juniors, seniors, faculty, and new students for placement guidance, verified notes sharing, experience discussions, and peer networking.</p>
       <p><b>Tech Stack:</b> React, Next.js, Node.js, Express, MongoDB, MySQL, Firebase, Vercel</p>
       <p align="center">
         <a href="https://github.com/Neetesh-Kurmi/Campus-Connect"><b>View Repository ➔</b></a>
@@ -109,20 +109,19 @@
 
 ---
 
-### 📊 GitHub Activity & Streak Stats
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Neetesh-Kurmi&theme=dark&background=0d1117&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8&dates=8b949e" alt="Neetesh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neetesh-Kurmi&theme=dark&background=0d1117&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8&dates=8b949e" alt="Neetesh's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neetesh-Kurmi&show_icons=true&theme=dark&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Neetesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetesh-Kurmi&layout=compact&theme=dark&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&text_color=c9d1d9" alt="Neetesh's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neetesh-Kurmi&show_icons=true&theme=nord&border_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&title_color=38bdf8" alt="Neetesh's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neetesh-Kurmi&layout=compact&theme=nord&border_color=38bdf8&text_color=e2e8f0&title_color=38bdf8" alt="Neetesh's Top Languages" />
 </p>
 
-<!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetesh-Kurmi&theme=nord&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=false" width="100%" alt="Neetesh's Contribution Activity Graph" />
 </p>
 
 ---
