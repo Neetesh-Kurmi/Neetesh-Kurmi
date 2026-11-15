@@ -55,12 +55,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧭 Pathfinder</h3>
+      <h3 align="center">🧭 Saathi</h3>
       <p align="center"><b>AI-Powered Travel Assistant (Chrome Extension)</b></p>
       <p>An intelligent travel companion integrated with Google Maps that provides complete travel roadmaps, public transit fare estimation, live group location tracking, and destination guides.</p>
       <p><b>Tech Stack:</b> JavaScript, Chrome Extension APIs, Google Maps API, AI Integration</p>
       <p align="center">
-        <a href="https://github.com/Neetesh-Kurmi/Pathfinder"><b>View Repository ➔</b></a>
+        <a href="https://github.com/Neetesh-Kurmi/CampusConnect-"><b>View Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
